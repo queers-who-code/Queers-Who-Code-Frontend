@@ -2,8 +2,6 @@
 
 This is the frontend React web client for the Queers Who Code LGBTQ non-profit initiative.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
